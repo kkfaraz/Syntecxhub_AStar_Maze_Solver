@@ -1,3 +1,4 @@
+<img width="400" height="400" alt="demo" src="https://github.com/user-attachments/assets/282487b5-1cd5-4606-912d-961a32dbd99f" />
 # Syntecxhub_AStar_Maze_Solver
 Interactive A* Maze Solver Game with real-time visualization, dual heuristics, terminal analytics, and Matplotlib-based final path rendering.
 
